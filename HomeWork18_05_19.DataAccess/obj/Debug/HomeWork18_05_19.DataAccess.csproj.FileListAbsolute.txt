@@ -1,0 +1,16 @@
+S:\VisualStudio\WPF\HomeWork18_05_19.WpfApp\HomeWork18_05_19.DataAccess\bin\Debug\HomeWork18_05_19.DataAccess.dll.config
+S:\VisualStudio\WPF\HomeWork18_05_19.WpfApp\HomeWork18_05_19.DataAccess\bin\Debug\HomeWork18_05_19.DataAccess.dll
+S:\VisualStudio\WPF\HomeWork18_05_19.WpfApp\HomeWork18_05_19.DataAccess\bin\Debug\HomeWork18_05_19.DataAccess.pdb
+S:\VisualStudio\WPF\HomeWork18_05_19.WpfApp\HomeWork18_05_19.DataAccess\bin\Debug\EntityFramework.dll
+S:\VisualStudio\WPF\HomeWork18_05_19.WpfApp\HomeWork18_05_19.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+S:\VisualStudio\WPF\HomeWork18_05_19.WpfApp\HomeWork18_05_19.DataAccess\bin\Debug\HomeWork18_05_19.Models.dll
+S:\VisualStudio\WPF\HomeWork18_05_19.WpfApp\HomeWork18_05_19.DataAccess\bin\Debug\HomeWork18_05_19.Models.pdb
+S:\VisualStudio\WPF\HomeWork18_05_19.WpfApp\HomeWork18_05_19.DataAccess\bin\Debug\EntityFramework.xml
+S:\VisualStudio\WPF\HomeWork18_05_19.WpfApp\HomeWork18_05_19.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+S:\VisualStudio\WPF\HomeWork18_05_19.WpfApp\HomeWork18_05_19.DataAccess\bin\Debug\ru\EntityFramework.resources.dll
+S:\VisualStudio\WPF\HomeWork18_05_19.WpfApp\HomeWork18_05_19.DataAccess\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+S:\VisualStudio\WPF\HomeWork18_05_19.WpfApp\HomeWork18_05_19.DataAccess\obj\Debug\HomeWork18_05_19.DataAccess.csprojAssemblyReference.cache
+S:\VisualStudio\WPF\HomeWork18_05_19.WpfApp\HomeWork18_05_19.DataAccess\obj\Debug\HomeWork18_05_19.DataAccess.csproj.CoreCompileInputs.cache
+S:\VisualStudio\WPF\HomeWork18_05_19.WpfApp\HomeWork18_05_19.DataAccess\obj\Debug\HomeWork18_05_19.DataAccess.csproj.CopyComplete
+S:\VisualStudio\WPF\HomeWork18_05_19.WpfApp\HomeWork18_05_19.DataAccess\obj\Debug\HomeWork18_05_19.DataAccess.dll
+S:\VisualStudio\WPF\HomeWork18_05_19.WpfApp\HomeWork18_05_19.DataAccess\obj\Debug\HomeWork18_05_19.DataAccess.pdb

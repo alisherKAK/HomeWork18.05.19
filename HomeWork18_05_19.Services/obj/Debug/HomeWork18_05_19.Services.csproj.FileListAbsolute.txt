@@ -1,0 +1,8 @@
+S:\VisualStudio\WPF\HomeWork18_05_19.WpfApp\HomeWork18_05_19.Services\bin\Debug\HomeWork18_05_19.Services.dll
+S:\VisualStudio\WPF\HomeWork18_05_19.WpfApp\HomeWork18_05_19.Services\bin\Debug\HomeWork18_05_19.Services.pdb
+S:\VisualStudio\WPF\HomeWork18_05_19.WpfApp\HomeWork18_05_19.Services\bin\Debug\DevOne.Security.Cryptography.BCrypt.dll
+S:\VisualStudio\WPF\HomeWork18_05_19.WpfApp\HomeWork18_05_19.Services\obj\Debug\HomeWork18_05_19.Services.csprojAssemblyReference.cache
+S:\VisualStudio\WPF\HomeWork18_05_19.WpfApp\HomeWork18_05_19.Services\obj\Debug\HomeWork18_05_19.Services.csproj.CoreCompileInputs.cache
+S:\VisualStudio\WPF\HomeWork18_05_19.WpfApp\HomeWork18_05_19.Services\obj\Debug\HomeWork18_05_19.Services.csproj.CopyComplete
+S:\VisualStudio\WPF\HomeWork18_05_19.WpfApp\HomeWork18_05_19.Services\obj\Debug\HomeWork18_05_19.Services.dll
+S:\VisualStudio\WPF\HomeWork18_05_19.WpfApp\HomeWork18_05_19.Services\obj\Debug\HomeWork18_05_19.Services.pdb

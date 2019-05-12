@@ -1,0 +1,5 @@
+S:\VisualStudio\WPF\HomeWork18_05_19.WpfApp\HomeWork18_05_19.Models\bin\Debug\HomeWork18_05_19.Models.dll
+S:\VisualStudio\WPF\HomeWork18_05_19.WpfApp\HomeWork18_05_19.Models\bin\Debug\HomeWork18_05_19.Models.pdb
+S:\VisualStudio\WPF\HomeWork18_05_19.WpfApp\HomeWork18_05_19.Models\obj\Debug\HomeWork18_05_19.Models.csproj.CoreCompileInputs.cache
+S:\VisualStudio\WPF\HomeWork18_05_19.WpfApp\HomeWork18_05_19.Models\obj\Debug\HomeWork18_05_19.Models.dll
+S:\VisualStudio\WPF\HomeWork18_05_19.WpfApp\HomeWork18_05_19.Models\obj\Debug\HomeWork18_05_19.Models.pdb
